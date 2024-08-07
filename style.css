@@ -1,0 +1,59 @@
+
+body {
+  background-color: #101010;
+}
+.profile_picture {
+  height: 40%;
+  width: 40%;
+  margin-left: 35%;
+  margin-bottom: 0%;
+  margin-top: 10%;
+  border-radius: 50%;
+  
+}
+.name {
+  margin-left: 0%;
+  margin-bottom: 20%;
+  font-size: 250%;
+  color: white;
+}
+.icon {
+  height: 10%;
+  width: 10%;
+  margin-left: 30%;
+}
+.wash {
+  margin: auto;
+}
+.facebook-icon {
+ height: 15%; 
+  width: 15%;
+  margin: 1%;
+  
+}
+.youtube-icon {
+ height: 15%; 
+  width: 15%;
+  margin: 1%;
+ 
+}
+.instagram-icon {
+   height: 15%; 
+  width: 15%;
+  margin: 1%;
+  
+}
+.snapchat-icon {
+   height: 15%; 
+  width: 15%;
+  margin: 1%;
+  
+}
+.flox {
+  height: auto;
+}
+.recommend {
+  color: white;
+  margin-top: 15%;
+  font-size: 200%;
+}
